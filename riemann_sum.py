@@ -46,5 +46,5 @@ def riemann_sum(rectangles):
 rect = 100000
 s = riemann_sum(rect)
 print()
-print("Suma de riemann: {:.03f}".format(s))
+print("Riemann Sum: {:.03f}".format(s))
 print()
